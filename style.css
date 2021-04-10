@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
 
 
-
+//To add background image of body and set a font family
 body{
     font-family: 'Poppins', sans-serif;
     background: url("https://image.freepik.com/free-vector/white-abstract-background_23-2148812993.jpg") ;
